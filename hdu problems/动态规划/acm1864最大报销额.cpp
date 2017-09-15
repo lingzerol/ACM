@@ -1,6 +1,6 @@
 
 #include <iostream>
-#include <cstring>
+
 double Q;
 int  N,P;
 double goods[3], temp;
